@@ -7,7 +7,7 @@ This is an example of Stryker in Vue application test project using jest, based 
 
   
 
-This application is the same as the original but change Angular to Vue and Karma & Jasmine to jest.
+This application is the same as the original but change Angular with Karma & Jasmine to Vue with Jest.
 
   
 
