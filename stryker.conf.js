@@ -4,7 +4,8 @@ module.exports = function (config) {
   config.set({
     mutate: [
       "src/**/*.js",
-      "src/**/*.vue"
+      "src/**/*.vue",
+      '!src/services/DrinkService.js'
     ],
     mutator: "vue",
     testRunner: "jest",
